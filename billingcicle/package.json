@@ -3,9 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "admin-lte": "^2.4.12",
-    "font-awesome": "^4.7.0",
-    "ionicons": "^4.6.1",
+    "admin-lte": "^2.4.15",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
